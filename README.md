@@ -1,4 +1,4 @@
-🛒 E-Commerce – Site de Vente en Ligne
+🛒 online shop – Site de Vente en Ligne
 Projet développé par ATEM Azissou
 📌 Description du projet
 
@@ -47,11 +47,11 @@ Statistiques et rapports
 🧰 Technologies utilisées
 Backend :
 
-PHP / Laravel (ou PHP natif selon votre version exacte)
+PHP
 
 MySQL (Base de données)
 
-API d’intégration (paiement / notifications)
+API d’intégration ( notifications)
 
 Frontend :
 
@@ -59,7 +59,7 @@ HTML5 / CSS3
 
 Bootstrap 5
 
-JavaScript (Vanilla ou framework selon votre projet)
+JavaScript 
 
 Autres :
 
